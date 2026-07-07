@@ -1,0 +1,2 @@
+# Colorectal-Cancer-Risk-Analysis-Predictive-Healthcare-Analytics
+This healthcare analytics project explores colorectal cancer datasets to identify medical patterns, risk factors, and predictive insights through comprehensive data analysis. Using Python-based analytical techniques,the project applies data preprocessing,EDA,and visualization to support evidence-based healthcare decision-making and risk assessment.
